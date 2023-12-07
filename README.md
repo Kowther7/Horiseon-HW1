@@ -23,7 +23,7 @@ Heriseson is solution service platform.It help customer with with search optimiz
 To run the project in your local machine:
 
 1. Open visual studio in your computer or laptop
-2. Clone the git project: https://github.com/
+2. Clone the git project:  https://github.com/Kowther7/Horiseon_Refactory.git
 3. Pull the latest from the 'main' branch 
 4. Locate the index.html file
 5. Right click on the file and select "Open in default browser"
